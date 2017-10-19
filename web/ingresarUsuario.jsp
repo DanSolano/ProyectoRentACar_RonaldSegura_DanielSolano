@@ -15,7 +15,7 @@
     </head>
     <body>
         <div>
-            <form action="ServletUsuario" method="POST">
+            <form action="./ServletUsuario" method="GET">
                 
                 <input type="hidden" name="accion" value="Ingresar">
                 
